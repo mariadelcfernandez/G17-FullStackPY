@@ -1,4 +1,4 @@
-# G17-FullStackPY
+# G17-FullStackPY Les dejo el enlace del proyecto https://mariadelcfernandez.github.io/G17-FullStackPY/
  TecnoYa
  Sistemas de Ventas de Productos tecnologicos web.
  Se creo un ecommerce de productos tecnologicos y servicios.
